@@ -11,3 +11,4 @@ The workflow reads transaction data, evaluates fraud conditions using business r
 
 This project simulates a modern fraud monitoring process used in financial operations and risk management.
 
+# 🎯 Objectives
