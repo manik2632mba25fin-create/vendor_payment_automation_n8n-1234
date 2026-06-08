@@ -42,5 +42,17 @@ Fraud Status
 Step 5 — Send Automated Alerts
 Generate fraud notification emails.
 
-
+# 🧠 Fraud Detection Rules
+Rule	Description
+R1	High Value Transaction
+R2	Round Amount Detection
+R3	Micro Pattern
+R4	Impossible Travel
+R5	Mule Account Pattern
+R6	Off Hours Activity
+R7	Dormant Account Spike
+R8	First High Value
+R9	Foreign Location
+R11	UPI Abuse
+R12	Cross Border Activity
 
