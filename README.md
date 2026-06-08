@@ -22,3 +22,4 @@ Demonstrate AI + Workflow Automation
 # 🏗️ Solution Architecture
 text Google Sheets ↓ Transaction Extraction ↓ n8n Workflow ↓ JavaScript Rule Engine ↓ Risk Scoring ↓ Risk Classification ↓ Update Dataset ↓ Email Notifications
 
+# ⚙️ Workflow Process
