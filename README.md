@@ -25,3 +25,5 @@ text Google Sheets ↓ Transaction Extraction ↓ n8n Workflow ↓ JavaScript Ru
 # ⚙️ Workflow Process
 
 # Step 1 — Read Transaction Dataset
+Apply fraud detection rules.
+
