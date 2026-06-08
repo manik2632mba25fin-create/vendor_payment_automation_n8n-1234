@@ -27,5 +27,20 @@ text Google Sheets ↓ Transaction Extraction ↓ n8n Workflow ↓ JavaScript Ru
 # Step 1 — Read Transaction Dataset
 Import transaction records from Google Sheets.
 
+# Step 2 — Execute Fraud Logic
+Apply fraud detection rules.
+
+# Step 3 — Generate Risk Score
+Assign risk score based on rule triggers.
+
+# Step 4 — Update Monitoring Data
+Store:
+
+Triggered Rules
+Risk Score
+Fraud Status
+Step 5 — Send Automated Alerts
+Generate fraud notification emails.
+
 
 
