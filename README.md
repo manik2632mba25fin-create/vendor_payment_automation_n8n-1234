@@ -23,3 +23,5 @@ Demonstrate AI + Workflow Automation
 text Google Sheets ↓ Transaction Extraction ↓ n8n Workflow ↓ JavaScript Rule Engine ↓ Risk Scoring ↓ Risk Classification ↓ Update Dataset ↓ Email Notifications
 
 # ⚙️ Workflow Process
+
+# Step 1 — Read Transaction Dataset
