@@ -12,3 +12,9 @@ The workflow reads transaction data, evaluates fraud conditions using business r
 This project simulates a modern fraud monitoring process used in financial operations and risk management.
 
 # 🎯 Objectives
+Automate fraud monitoring
+Detect suspicious transactions
+Generate automated alerts
+Reduce manual review effort
+Improve operational efficiency
+Demonstrate AI + Workflow Automation
