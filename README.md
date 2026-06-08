@@ -18,3 +18,5 @@ Generate automated alerts
 Reduce manual review effort
 Improve operational efficiency
 Demonstrate AI + Workflow Automation
+
+# 🏗️ Solution Architecture
