@@ -5,3 +5,9 @@ AI-powered fraud detection workflow using n8n for real time transaction risk sco
                   Automated Fraud Detection • Risk Scoring • Workflow Automation • Email Alerts
 
 # 📌 Project Overview
+This project automates financial fraud monitoring using n8n, Google Sheets, JavaScript, and Gmail.
+
+The workflow reads transaction data, evaluates fraud conditions using business rules, calculates a risk score, classifies transaction risk levels, updates monitoring records, and automatically sends alerts for suspicious activity.
+
+This project simulates a modern fraud monitoring process used in financial operations and risk management.
+
